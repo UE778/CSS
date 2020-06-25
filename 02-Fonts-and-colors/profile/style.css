@@ -1,0 +1,32 @@
+body{
+    background-color: #CEBEBE;
+    font-family: 'Amiri', sans-serif;
+    color:#252627;
+    line-height:1.6;
+}
+
+(h1,h2,h3){
+  color: #292F36;
+  letter-spacing:2px;
+}
+
+a#pink {
+    color: #A26769;
+    font-weight: 500;
+}
+
+a#pink:hover {
+    color: #65655E;
+    text-decoration-style: solid;
+    font-weight: 500;
+}
+
+
+a{
+  text-decoration:none
+}
+
+.fab{
+  color:#65655E;
+  font-weight: bold;
+}
